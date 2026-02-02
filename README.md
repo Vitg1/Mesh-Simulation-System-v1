@@ -5,7 +5,7 @@ Sistema simples de simulação de pano para Its Magic Engine.
 ## Instalação
 1. Baixe o .zip que contém os arquivos e importe no seu projeto, ou copie a pasta `system/` para seu projeto na Its Magic .
 2. certifique se de reinstalar as libraries para ter certeza que os scripts vao compilar
-3. leia "HOW_TO_USE" para um tutorial detalhado(ou quase isso)
+3. leia "HOW_TO_USE" para um tutorial mais detalhado(ou quase isso)
 
 ## Recursos
 - Wind
@@ -14,7 +14,7 @@ Sistema simples de simulação de pano para Its Magic Engine.
 - a lot of configs
 
 ## Documentação simples
-Veja `HOW_TO_USE` para detalhes de todas as variáveis e funções.
+Veja `HOW_TO_USE` para maior detalhes das funções e variaveis.
 
 
 ## NOTA:
