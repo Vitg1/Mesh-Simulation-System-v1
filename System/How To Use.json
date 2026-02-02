@@ -1,0 +1,81 @@
+
+  /*
+
+Simple form:
+-add "DeformMain" to an object
+-configure (OPTIONAL)
+-play
+
+=============
+normal form:
+-add "DeformMain"
+
+-Configure:
+* Quality (min 0, medium 1, max 2) [Big impact on FPS]
+
+* Pre-FixedPositions or Manually (use Editor_Mode and Enable_Visible_Points to set fixed and anchor manually) [heavy on mobile]
+
+* Collisions [are extremely simple and unstable, but they work] (for box and sphere, just add the desired objects to the list. For Mesh, in addition to adding the list,
+add the MeshCollider class to the target objects and activate the "MeshCollision" boolean on the Main Object) [MESHCOLLISION IS EXTREMELY HEAVY AND NOT RECOMMENDED]
+
+* Wind (Direction, strength, etc.... there's not much of a secret,bruh) [Note: Wind is a feature I added mostly for my own testing, so it's very simple and global, meaning it point in the same direction independently]
+
+*Seam_Constraints (used to weld points and vertices in the same place, useful in specific situations with models) 
+
+A few more things... you'll figure out what they're for yourself...lol
+
+
+ most of the variables are already pre-set, but still.... try to test it your way :)
+======================================
+
+======================================
+
+Other classes you can interact with in the editor:
+
+-ChothPoint:
+* Just change the isFixed and anchor.
+
+*isFixed:
+* Fixes the point in space...
+
+*anchor:
+* Makes the point follow the position of another object (Make sure to activate isFixed as a precaution)
+
+=======
+
+-planoGenerator
+(creates a subdivided plane on the desired object) [add some ModelRenderer to it before testing, and a material to it..of course]
+
+- Change width, height, and spacing.
+ *self-explanatory...
+
+ *Press the boolean to recreate the mesh at any time.
+
+
+
+Warning:
+*These scripts are very likely poorly optimized, so forgive me if its not that good. I'm not that good and I asked  chatGPT for a lot of help, lol.
+
+Dangerous Settings (which are very poorly optimized, buggy, or crash a lot):
+*Self_Collision - extremely heavy and doesn't work very well.
+*Mesh_Collision - same situation
+
+
+
+
+There may be visual bugs or artefacts, I will try to fix them. 
+
+
+
+
+
+
+
+
+
+
+
+
+tenha piedade do Betinha, Luquinhas...
+
+*/ 
