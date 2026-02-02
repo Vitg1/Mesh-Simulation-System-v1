@@ -13,5 +13,9 @@ Sistema simples de simulação de pano para Its Magic Engine.
 - Real Time mesh simulations
 - a lot of configs
 
-## Documentação avançada
+## Documentação simples
 Veja `HOW_TO_USE` para detalhes de todas as variáveis e funções.
+
+
+## NOTA:
+- esse sistema é a versao V1, e foi feito a bastante tempo,pode nao ser tao bom ou funcional
