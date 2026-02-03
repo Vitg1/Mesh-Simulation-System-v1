@@ -8,10 +8,10 @@ Sistema simples de simulação de pano para Its Magic Engine.
 3. leia "HOW_TO_USE" para um tutorial mais detalhado(ou quase isso)
 
 ## Recursos
-- Wind
-- simple collisions
-- Real Time mesh simulations
-- a lot of configs
+- Vento
+- Colisoes simples
+- simulaçoes de malha em tempo real
+- um monte de variavel e configs
 
 ## Documentação simples
 Veja `HOW_TO_USE` para maior detalhes das funções e variaveis.
