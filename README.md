@@ -1,21 +1,21 @@
 # Cloth Mesh System
 
-Sistema simples de simulação de pano para Its Magic Engine.
+Simple cloth simulation system for Its Magic Engine. 
 
 ## Instalação
-1. Baixe o .zip que contém os arquivos e importe no seu projeto, ou copie a pasta `system/` para seu projeto na Its Magic .
-2. certifique se de reinstalar as libraries para ter certeza que os scripts vao compilar
-3. leia "HOW_TO_USE" para um tutorial mais detalhado(ou quase isso)
-
+1. Download the .zip file containing the files and import it into your project, or copy the `system/` folder to your project in Its Magic.
+2. Make sure to reinstall the libraries to ensure the scripts will compile.
+3. Read "HOW_TO_USE" for a more detailed (or almost detailed) tutorial.
+ 
 ## Recursos
-- Vento
-- Colisoes simples
-- simulaçoes de malha em tempo real
-- um monte de variavel e configs
+- Wind
+- Simple collisions
+- Real-time mesh simulations
+- A lot of variables and configurations 
 
 ## Documentação simples
-Veja `HOW_TO_USE` para maior detalhes das funções e variaveis.
+See `HOW_TO_USE` for more details on functions and variables. 
 
 
 ## NOTA:
-- esse sistema é a versao V1, e foi feito a bastante tempo,pode nao ser tao bom ou funcional
+- This system is version V1, and it was made a long time ago; it may not be as good or functional. 
