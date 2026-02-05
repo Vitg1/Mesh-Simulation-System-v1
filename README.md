@@ -1,6 +1,6 @@
 # Cloth Mesh System
 
-Simple cloth simulation system for Its Magic Engine. 
+Simple cloth simulation system for Its Magic Engine 1.0. 
 
 V2 link: https://github.com/Vitg1/Mesh-Simulation-for-itsmagic-V2
 
