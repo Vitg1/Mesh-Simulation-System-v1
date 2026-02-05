@@ -2,6 +2,8 @@
 
 Simple cloth simulation system for Its Magic Engine. 
 
+V2 link: https://github.com/Vitg1/Mesh-Simulation-for-itsmagic-V2
+
 ## Installation 
 1. Download the .zip file containing the files and import it into your project, or copy the `system/` folder to your project in Its Magic.
 2. Make sure to reinstall the libraries to ensure the scripts will compile.
